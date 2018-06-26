@@ -169,6 +169,7 @@ the material on the Cirrus CI Service (providing the URL(s) of the claimed infri
 you are the copyright owner or are authorized to act on the copyright owner's behalf; and
 * your physical or electronic signature.
 
+
 Our Designated Copyright Agent for notification of claimed infringement can be reached by email at: hello@cirruslabs.org.
 
 The Service may contain advertisements and/or links to other websites (“Third Party Sites”). Cirrus Labs does not endorse, 
